@@ -6,6 +6,9 @@ Named :light
 
 link for website: http://192.168.0.196:7123/index.html
 
+![image](https://github.com/user-attachments/assets/68423917-42b4-498f-ad3f-664241470d8c)
+
+
 
 Made as  FUN Project 
 ![image](https://github.com/user-attachments/assets/c8feb2f7-dad3-4db2-b32b-efd8410965e9)
