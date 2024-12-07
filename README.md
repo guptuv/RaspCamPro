@@ -1,6 +1,11 @@
 # RaspCamPro
 Made a rasberry pi3 Camera for VIewing through Rpi Camera on the internet (worldwide)
 
+then SSH connected it so that anyone can acess it 
+Named :light 
+
+link for website: http://192.168.0.196:7123/index.html
+
 
 Made as  FUN Project 
 ![image](https://github.com/user-attachments/assets/c8feb2f7-dad3-4db2-b32b-efd8410965e9)
